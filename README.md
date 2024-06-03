@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fayfall
+- 👀 I’m interested in minecraft, minecraft servers, sites
+- 🌱 I’m currently learning html, js, css
